@@ -16,14 +16,6 @@ Known Issue: window resize skews top and bottom half of face away from each othe
 ![cat-eyes](https://user-images.githubusercontent.com/93546742/161889954-83faa732-7698-4b4e-a140-2243ec44d2d2.png)
 
 
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
